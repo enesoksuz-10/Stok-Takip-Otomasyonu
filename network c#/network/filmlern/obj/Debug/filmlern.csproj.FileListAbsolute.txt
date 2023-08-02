@@ -1,0 +1,33 @@
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\bin\Debug\filmlern.exe.config
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\bin\Debug\filmlern.exe
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\bin\Debug\filmlern.pdb
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.Form1.resources
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.exe
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.pdb
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\Interop.WMPLib.dll
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmlern.csproj.ResolveComReference.cache
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\obj\Debug\filmler.Form2.resources
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\bin\Debug\Interop.WMPLib.dll
+C:\Users\ibrahim\Desktop\nesne\filmler\filmlern\filmlern\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\bin\Debug\filmlern.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\bin\Debug\filmlern.exe
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\bin\Debug\filmlern.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\bin\Debug\Interop.WMPLib.dll
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.csproj.AssemblyReference.cache
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.csproj.SuggestedBindingRedirects.cache
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\Interop.WMPLib.dll
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.csproj.ResolveComReference.cache
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.Form1.resources
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.Properties.Resources.resources
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.csproj.GenerateResource.cache
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.csproj.CoreCompileInputs.cache
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.exe
+C:\Users\eoene\OneDrive\Masaüstü\network c#\network\filmlern\obj\Debug\filmlern.pdb
